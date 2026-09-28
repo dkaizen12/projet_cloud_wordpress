@@ -77,7 +77,7 @@ L'architecture locale repose sur trois conteneurs interconnectés via un réseau
 
 En production, cette application serait déployée sur **AWS** avec des services managés :
 
-![Architecture AWS](architecture_aws.png)
+![Architecture AWS](architecture_cloud.png)
 
 ### Choix d'architecture cloud
 
