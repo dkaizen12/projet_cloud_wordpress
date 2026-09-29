@@ -190,7 +190,7 @@ Avant de commencer, assurez-vous d'avoir :
 | **Docker Compose** | ≥ 2.x            | `docker compose version` |
 | **Git**            | ≥ 2.30           | `git --version`          |
 
-> 💡 **Windows** : utilisez **WSL2** avec Ubuntu 24.04.  
+> 💡 **Windows** : utilisez **WSL2** avec Ubuntu 24.04 ou docker desktop.  
 > 💡 **Linux/macOS** : Docker Desktop ou Docker Engine natif.
 
 ### 📥 Étape 1 — Cloner le dépôt
