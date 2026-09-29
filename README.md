@@ -10,7 +10,7 @@
 ## 👥 Membres du binôme
 
 - **Dady KALANGOSO KANGELA** — `dady.kalangosokangela@epfedu.fr`
-- **Marie-hanielle DEUTCHEU** — `marie-hannielle.deutcheuyonga@epfedu.fr`
+- **Ami TOGLAN** — `ami.toglan@epfedu.fr`
 
 ---
 
